@@ -12,6 +12,8 @@
 
 - 품목 부분 토글링
 
+- 네비게이션 메뉴 마우스오버 시 하위 메뉴 노출
+
 ![image](https://github.com/supersimples/musinsaclone/assets/124879683/39d916aa-e451-44e2-8eb3-3cdf8cf0d220)
 ![image](https://github.com/supersimples/musinsaclone/assets/124879683/141aa51b-9941-41da-b0fa-f77ad461e1fc)
 ![image](https://github.com/supersimples/musinsaclone/assets/124879683/95177ebc-b38a-4862-b64c-f470fb3302c8)
